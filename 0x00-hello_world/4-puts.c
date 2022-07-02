@@ -19,4 +19,5 @@ int main(void)
 
 			return (0);
 
+m(preg_replace('/[\t\n\r\s]+/', ' ', $text_to_clean_up))
 }
